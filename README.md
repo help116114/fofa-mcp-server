@@ -9,7 +9,7 @@ A Model Context Protocol (MCP) server that provides access to FoFa API functiona
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [Your GitHub Repo]
+   git clone https://github.com/help116114/fofa-mcp-server.git
    cd fofa-mcp-server
    ```
 2. Install dependencies:
