@@ -61,8 +61,7 @@ This server can be integrated with Claude or other MCP-compatible AI assistants.
 
 ### `get_user_info`
 - **Description**: Get user information from FoFa.
-- **Input Schema**:
-  - 无参数。
+- **Input Schema**: Input information。
 
 ## Requirements
 - Node.js (version 16 or higher)
